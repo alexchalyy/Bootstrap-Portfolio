@@ -1,0 +1,16 @@
+/* This is the professional portfolio css file.
+
+	 Written by Alex Chalyy on 2/1/2019. */
+	 
+/*	Styling for name header inside header.	*/
+
+#name
+{
+	background: teal;
+	color: white;
+}
+
+.row
+{
+	overflow-x: hidden;
+}
