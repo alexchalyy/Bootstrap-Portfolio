@@ -41,12 +41,12 @@ body {
 	color: white;
 	background: #666666;
 	height: 150%;
+	width: 101.5%;
 }
 
 /* This styles the footer container. */
 
 #c3	{
-	width: 150%;
 	margin-bottom: -0.7%;
 	padding-top: 1%;
 	padding-bottom: 1%;
