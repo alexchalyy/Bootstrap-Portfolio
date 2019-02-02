@@ -10,8 +10,56 @@
 	color: white;
 }
 
+/*	This makes sure that the header links are centered and are 960px wide. */
+
 #c2
 {
 	width: 960px;
 	text-align: center;
+}
+
+/*	This sets the background image.	*/
+
+body {
+	background-image: url("../images/handmadepaper.png");
+	z-index: 1;
+	margin-bottom: 60px;
+}
+
+/* This sets the background and z-index of the header. */
+
+.row	{
+	z-index: 2;
+	background: white;
+	border: #cccccc;
+}
+
+/* This sets the background for footer. */
+
+.footer	{
+	text-align: center;
+	color: white;
+	background: #666666;
+	height: 150%;
+}
+
+/* This styles the footer container. */
+
+#c3	{
+	width: 150%;
+	margin-bottom: -0.7%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+/* This sets the color of the text inside the footer.	*/
+
+#copyright	{
+	color: white;
+}
+
+/* This styles the top teal border of the footer.	*/
+
+.teal-border	{
+	border-top: 4px #4aaaa5 solid;
 }
