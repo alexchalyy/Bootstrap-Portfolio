@@ -96,20 +96,6 @@ body {
 	text-align: left;
 }
 
-/* This styles the main box text. */
-
-#p1, #p2, #p3	{
-	text-align: left;
-	font-size: 90%;
-} 
-
-/*	This styles message text box.	*/
-
-#text_box_3	{
-	width: 100%;
-	height: 400%;
-}
-
 /*	This styles the main body of "Contact" page. */
 
 #c5	{
