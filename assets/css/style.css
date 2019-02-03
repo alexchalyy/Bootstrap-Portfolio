@@ -10,6 +10,8 @@
 {
 	background: teal;
 	color: white;
+	padding: 5%;
+	width: 110%;
 }
 
 /*	This makes sure that the header links are centered and are 960px wide. */
