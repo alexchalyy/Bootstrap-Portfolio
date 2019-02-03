@@ -81,4 +81,10 @@ body {
 	padding-top: 1%
 }
 
+/*	This styles the "About Me" of the main page.	*/
 
+#me	{
+	color: teal;
+	text-align: left;
+	padding-left: 1%;
+}
