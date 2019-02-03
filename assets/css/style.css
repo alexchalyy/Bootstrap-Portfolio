@@ -107,3 +107,9 @@ body {
 	padding-top: 0.5%;
 	padding-bottom: 9%;
 }
+
+/* This styles the message text box. */
+
+#message	{
+	height: 300%;
+}
