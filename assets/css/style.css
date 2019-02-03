@@ -103,7 +103,9 @@ body {
 	font-size: 90%;
 } 
 
-#text_box_4	{
+/*	This styles message text box.	*/
+
+#text_box_3	{
 	width: 100%;
 	height: 400%;
 }
@@ -117,5 +119,5 @@ body {
 	width: 960px;
 	margin-top: 2%;
 	padding-top: 0.5%;
-	padding-bottom: 10%;
+	padding-bottom: 9%;
 }
