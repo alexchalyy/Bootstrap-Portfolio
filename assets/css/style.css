@@ -16,6 +16,7 @@
 {
 	width: 960px;
 	text-align: center;
+	padding: 0%;
 }
 
 /*	This sets the background image.	*/
@@ -32,6 +33,8 @@ body {
 	z-index: 2;
 	background: white;
 	border: #cccccc;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
 }
 
 /* This sets the background for footer. */
@@ -64,3 +67,16 @@ body {
 .teal-border	{
 	border-top: 4px #4aaaa5 solid;
 }
+
+/*	This styles the main body of "About" page. */
+
+#c4	{
+	background: white;
+	border: #cccccc;
+	text-align: center;
+	width: 960px;
+	margin-top: 1%;
+	padding-top: 1%
+}
+
+
