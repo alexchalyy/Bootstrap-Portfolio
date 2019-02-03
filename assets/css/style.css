@@ -108,14 +108,20 @@ body {
 	padding-bottom: 1%;
 }
 
-/* This styles the message text box. */
-/*
-#message	{
-	height: 300%;
+/* This styles the main box text. */
+
+#p1, #p2, #p3	{
+	text-align: left;
+	font-size: 90%;
+} 
+
+/*	This styles the portfolio text box. */
+
+#c6	{
+	background: white;
+	border: #cccccc;
+	text-align: center;
+	width: 960px;
+	margin-top: 2%;
+	padding-top: 0.5%;
 }
- */
-/* this styles the submit button. */
-/*
-#submit_button	{
-	margin-top: 150%;
-} */
