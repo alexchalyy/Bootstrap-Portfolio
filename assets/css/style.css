@@ -1,6 +1,8 @@
 /* This is the professional portfolio css file.
+   
+   Note: This css style sheet is written and tested using chrome dev tools mobile emulator. It is not supported by Samsung Galaxy S8+ phone and perhaps other mobile devicses as well.
 
-	 Written by Alex Chalyy on 2/1/2019. */
+   Written by Alex Chalyy on 2/1/2019. */
 	 
 /*	Styling for name header inside header.	*/
 
@@ -75,7 +77,7 @@ body {
 	border: #cccccc;
 	text-align: center;
 	width: 960px;
-	margin-top: 15%;
+	margin-top: 2%;
 	padding-top: 1%
 }
 
