@@ -12,6 +12,7 @@
 	color: white;
 	padding: 10%;
 	width: 120%;
+	margin-bottom: -13%;
 }
 
 /*	This makes sure that the header links are centered and are 960px wide. */
@@ -124,6 +125,7 @@ body {
 	width: 960px;
 	margin-top: 2%;
 	padding-top: 0.5%;
+	padding-bottom: 1%;
 }
 
 /*	This styles the text inside icons on portfolio page. */
@@ -165,5 +167,45 @@ h5	{
 	padding-bottom: 5%;
 }
 
+h6	{
+	background: teal;
+	color: white;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	width: 74%;
+	margin-left: 13%;
+}
 
+#trivia	{
+	background: teal;
+	color: white;
+	padding-left: 13%;
+	padding-right: 22%;
+	margin-left: -5%;
+	margin-right: -5%;
+	padding-top: 5%;
+	padding-bottom: 0.1%;
+	font-size: 100%;
+}
 
+#iphone	{
+	background: teal;
+	color: white;
+	padding-top: 5%;
+	padding-bottom: 0.1%;
+	font-size: 70%;
+	width: 74.5%;
+	margin-left: 13%;
+}
+
+#rock	{
+	background: teal;
+	color: white;
+	padding-left: 13%;
+	padding-right: 22%;
+	margin-left: -5%;
+	margin-right: -5%;
+	padding-top: 5%;
+	padding-bottom: 0.1%;
+	font-size: 60%;
+}
