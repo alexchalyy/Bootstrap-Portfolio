@@ -127,10 +127,43 @@ body {
 }
 
 /*	This styles the text inside icons on portfolio page. */
-
+/*
 #hangman	{
 	background: teal;
 	color: white;
 	padding-top: 1%;
 	padding-bottom: 5%;
-} 
+} */
+
+/*	This styles the ipad image.	*/
+/*
+#image1	{
+	position: relative;
+} */
+
+/*	This styles the hangman title over image. */
+/*
+#hangman	{
+	position: absolute;
+	text-decoration: none;
+	background: teal;
+	color: white;
+	margin-left: -95%;
+	margin-top: 70%;
+	padding-left: 21%;
+	padding-right: 21%;
+} */
+
+h5	{
+	background: teal;
+	color: white;
+	padding-left: 13%;
+	padding-right: 22%;
+	margin-left: -5%;
+	margin-right: -5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+
+
