@@ -128,65 +128,13 @@ body {
 	padding-bottom: 1%;
 }
 
-/*	This styles the text inside icons on portfolio page. */
-
-h5	{
-	background: teal;
-	color: white;
-	padding-left: 13%;
-	padding-right: 22%;
-	margin-left: -5%;
-	margin-right: -5%;
-	padding-top: 5%;
-	padding-bottom: 5%;
-}
-
-h6	{
-	background: teal;
-	color: white;
-	padding-top: 5%;
-	padding-bottom: 5%;
-	width: 74.5%;
-	margin-left: 13%;
-}
-
-#trivia	{
-	background: teal;
-	color: white;
-	padding-left: 13%;
-	padding-right: 22%;
-	margin-left: -5%;
-	margin-right: -6%;
-	padding-top: 5%;
-	font-size: 100%;
-	padding-bottom: 0.1%;
-}
-
-#iphone	{
-	background: teal;
-	color: white;
-	padding-top: 5%;
-	padding-bottom: 0.1%;
-	font-size: 70%;
-	width: 74.5%;
-	margin-left: 13%;
-}
-
-#rock	{
-	background: teal;
-	color: white;
-	padding-left: 13%;
-	padding-right: 22%;
-	margin-left: -5%;
-	margin-right: -5%;
-	padding-top: 5%;
-	padding-bottom: 0.1%;
-	font-size: 60%;
-}
+/*	This styles the image thumbnail link on portfolio page. */
 
 #image_1 , #image_2, #image_3, #image_4, #image_5	{
 	width: 100%;
 }
+
+/*	This styles several textboxes on the portfolio thumbnail image links. */
 
 .hangman	{
 	position: absolute;
@@ -202,6 +150,7 @@ h6	{
 }
 
 /* Container holding the first image of portfolio page.*/
+
 .image_container_1{
 	position: relative;
 	text-align: center;
