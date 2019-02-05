@@ -183,3 +183,75 @@ h6	{
 	padding-bottom: 0.1%;
 	font-size: 60%;
 }
+
+#image_1 , #image_2, #image_3, #image_4, #image_5	{
+	width: 100%;
+}
+
+.hangman	{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: teal;
+	color: white;
+	width: 100%;
+	margin-top: 30%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+/* Container holding the first image of portfolio page.*/
+.image_container_1{
+	position: relative;
+	text-align: center;
+	color: white;
+	width: 15%;
+	float: left;
+  }
+
+/* All other image containers on portfolio page. */
+
+  .image_container_2,
+  .image_container_3,
+  .image_container_4,
+  .image_container_5	{
+	position: relative;
+	text-align: center;
+	color: white;
+	width: 15%;
+	float: left;
+	margin-left: 6.2%;
+  }
+
+/* class that holds text box on rutgers thumbnail. */
+
+.Rutgers	{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: teal;
+	color: white;
+	width: 100%;
+	margin-top: 30%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 80%;
+}
+
+/* class that holds text box on rock, paper, scissors thumbnail. */
+
+.rock	{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: teal;
+	color: white;
+	width: 100%;
+	margin-top: 30%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 80%;
+}
