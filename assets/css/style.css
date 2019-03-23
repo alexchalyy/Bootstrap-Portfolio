@@ -130,7 +130,7 @@ body {
 
 /*	This styles the image thumbnail link on portfolio page. */
 
-#image_1 , #image_2, #image_3, #image_4, #image_5	{
+#image_1 , #image_2, #image_3, #image_4, #image_5, #image_6	{
 	width: 100%;
 }
 
@@ -189,7 +189,7 @@ body {
 	font-size: 80%;
 }
 
-/* class that holds text box on rock, paper, scissors thumbnail. */
+/* class that holds text box on train scheduller thumbnail. */
 
 .rock	{
 	position: absolute;
@@ -201,6 +201,30 @@ body {
 	width: 100%;
 	margin-top: 30%;
 	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-bottom: 14%;
 	font-size: 80%;
+}
+
+/*	This is additional styling to the added project. */
+
+.dog	{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: teal;
+	color: white;
+	width: 100%;
+	margin-top: 30%;
+	padding-top: 5%;
+	padding-bottom: 14%;
+	font-size: 80%;
+}
+
+.image_container_7	{
+	position: relative;
+	text-align: center;
+	color: white;
+	width: 15%;
+	float: left;
 }
