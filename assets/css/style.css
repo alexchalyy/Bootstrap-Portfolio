@@ -130,7 +130,7 @@ body {
 
 /*	This styles the image thumbnail link on portfolio page. */
 
-#image_1 , #image_2, #image_3, #image_4, #image_5, #image_6	{
+#image_1 , #image_2, #image_3, #image_4, #image_5, #image_6, #image_7	{
 	width: 100%;
 }
 
@@ -164,7 +164,7 @@ body {
   .image_container_2,
   .image_container_3,
   .image_container_4,
-  .image_container_5	{
+  .image_container_5 {
 	position: relative;
 	text-align: center;
 	color: white;
@@ -221,10 +221,19 @@ body {
 	font-size: 80%;
 }
 
-.image_container_7	{
+.image_container_7 {
 	position: relative;
 	text-align: center;
 	color: white;
 	width: 15%;
 	float: left;
+}
+
+.image_container_9	{
+	position: relative;
+	text-align: center;
+	color: white;
+	width: 15%;
+	float: left;
+	margin-left: 6.2%;
 }
