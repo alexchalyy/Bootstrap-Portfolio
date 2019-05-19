@@ -276,3 +276,9 @@ body {
 #o	{
 	color: teal;
 }
+
+#l	{
+	float: right;
+	color: teal;
+	margin-right: -5%;
+}
