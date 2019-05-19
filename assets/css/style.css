@@ -51,6 +51,7 @@ body {
 	width: 101%;
 	position: fixed;
 	bottom: 0;
+	z-index: 10;
 }
 
 /* This styles the footer container. */
@@ -246,4 +247,32 @@ body {
 
 #firstrow	{
 	margin-top: 2%;
+}
+
+#p1	{
+	width: 50%;
+	float: left;
+}
+
+#td	{
+	float: left;
+	color: teal;
+	margin-left: -100%;
+}
+
+#b	{
+	float: right;
+	color: teal;
+}
+
+.btn-info	{
+	margin: 5%;
+}
+
+.no-gutters	{
+	margin-left: 1%;
+}	
+
+#o	{
+	color: teal;
 }
